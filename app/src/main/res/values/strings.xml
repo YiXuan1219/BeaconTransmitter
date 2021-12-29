@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BeaconTransmitter</string>
+    <string name="buttonRed">Red</string>
+    <string name="buttonOrange">Orange</string>
+    <string name="buttonYellow">Yellow</string>
+    <string name="buttonGreen">Green</string>
+    <string name="buttonBlue">Blue</string>
+    <string name="buttonIndigo">Indigo</string>
+    <string name="buttonPurple">Purple</string>
+    <string name="buttonOnClickSuccess">已發送信號</string>
+    <string name="buttonOnClickFailure">Something went wrong</string>
+</resources>
